@@ -1,0 +1,25 @@
+# Environment variables & secrets
+.env
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Local Databases & Vector Stores
+chroma_fashion_db/
+chroma_cache_db/
+*.sqlite3
+
+# Streamlit local settings
+.streamlit/
+
+# OS specific files
+.DS_Store
+Thumbs.db
