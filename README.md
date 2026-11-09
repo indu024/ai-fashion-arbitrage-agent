@@ -22,7 +22,7 @@ An e-commerce aggregation agent that matches clothing items across major Indian 
 ---
 
 ## Architecture Overview
-
+```
 
                +----------------------------------------+
                | User Input: Text, Audio, or Photo      |
@@ -69,6 +69,7 @@ An e-commerce aggregation agent that matches clothing items across major Indian 
                                               | - ChromaDB: Embed query and top deal    |
                                               +-----------------------------------------+
 
+```
 
 ## System feature 
 
